@@ -102,15 +102,14 @@
 <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <!-- Last Img needs to reset alignment/positioning by not having align="left"  -->
 
+<br>
 
-
+#
 <!-- ### 🏛️ Latest Projects -->
 <!-- todo -->
 
-#
 
-
-### 📊 GitHub Profile Stats
+## 📊 GitHub Profile Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=balugrizzly&theme=gruvbox&border_radius=4.5)
 ![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balugrizzly&show_icons=true&theme=gruvbox)
