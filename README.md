@@ -112,8 +112,11 @@
 <h2> 📊 GitHub Profile Stats </h2>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=balugrizzly&theme=gruvbox&border_radius=4.5)
+
 ![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balugrizzly&show_icons=true&theme=gruvbox)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balugrizzly&size_weight=0.1&count_weight=0.9&theme=gruvbox&border_radius=4.5&layout=compact&langs_count=10)
+
 ![Balu's github activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=balugrizzly&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <small>
