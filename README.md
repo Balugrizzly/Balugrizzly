@@ -113,7 +113,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=balugrizzly&theme=gruvbox&border_radius=4.5)
 
-![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balugrizzly&show_icons=true&theme=gruvbox)
+![Balu's GitHub stats](https://github-readme-stats.vercel.app/api?username=balugrizzly&show_icons=true&theme=gruvbox&rank_icon=github&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balugrizzly&size_weight=0.1&count_weight=0.9&theme=gruvbox&border_radius=4.5&layout=compact&langs_count=10)
 
